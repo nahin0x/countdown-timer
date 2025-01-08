@@ -1,5 +1,4 @@
 import time
-
 inp=int(input("Enter the time in seconds: "))
 # print(" ")
 for sc in range(inp,0,-1):
