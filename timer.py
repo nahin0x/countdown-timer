@@ -1,6 +1,6 @@
 import time
 inp=int(input("Enter the time in seconds: "))
-# print("nothing to do just waste time ")
+# print("nothing to do just waste time ekdm ")
 for sc in range(inp,0,-1):
     seconds=sc%60
     minites=int(sc/60)%60
